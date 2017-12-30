@@ -1,0 +1,4 @@
+#Mon Oct 02 15:01:22 EDT 2017
+base.0=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2267e46cd2d83884bbf22425f0fb3226750136c4
+renamed.0=classes.dex
+file.0=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2267e46cd2d83884bbf22425f0fb3226750136c4\\classes.dex

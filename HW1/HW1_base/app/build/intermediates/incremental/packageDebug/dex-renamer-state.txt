@@ -1,0 +1,7 @@
+#Mon Oct 02 15:01:23 EDT 2017
+base.0=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40896c9fdfee2f136cb606500cec595992090e57
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c613c45a19b5eec2c8f81b322d46020fa56ace1c\\classes.dex
+base.1=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c613c45a19b5eec2c8f81b322d46020fa56ace1c
+file.0=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40896c9fdfee2f136cb606500cec595992090e57\\classes.dex

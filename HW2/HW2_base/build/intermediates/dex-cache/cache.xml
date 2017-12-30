@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\45d65a46f64b46ceed5fc6ffe6de2ed0f7b7bcb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_968b47e5f85e15e646a68d22282b0fcf4f5db8c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\35cd7856ed1bc131b7fe0a914f8194fc2095ba76\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fb0c10fcae436e758a467dfb1241740fa03ae0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\8e86ea290d6cc7abc91118bede6b19043fc7d9d8\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9e1ddbd7c6b4280f61beffe9447f487202200ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\8b55194e9fd81e76491447b26176fe2c63ff81ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_1458af8d285fb490b2f99aaf1e3087f9c82bc957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\3f3bac41d787f7434793cb2047018a9a07ef1674\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_91dda667dbb4791506e94e62238e3eb67291c742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\3f3bac41d787f7434793cb2047018a9a07ef1674\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_1812118b7b9c30a949c5331e83793cc5ed5982b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\a8e183c6f7f0535386e0086a31814a56cdb78eb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_da80ad802c87b57962cf96eacda768c2b5c3ee63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\35cd7856ed1bc131b7fe0a914f8194fc2095ba76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_c4ca7f5aba8391e114e6e2dfb3ef6af7a7ae31ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\49799dd8737f6d38e88363eec4e3bf1877bc73fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_1f7a5bf6c032c956cb77e67daa4eb174efcd7e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\8e86ea290d6cc7abc91118bede6b19043fc7d9d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_2b6ffd8cb8bd13c4055fef07d734db439b99604c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\f3d56a8b491519f60a4cca2b79071eaac06356c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_bc7e2b60f72c587231f14ebcf9b860c908e40e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_ddec3fa2816d3a206e930acca85090e0c4a8e5af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\8b55194e9fd81e76491447b26176fe2c63ff81ae\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4ec186be495018a91777619eb2d0ead58a2133e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\df1562996cf77560025960e0fb88cdf10922a9f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\classes_9ec118f49a3e5579dca7b4e0815b6ddff1f3aa5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\scott\.android\build-cache\a8e183c6f7f0535386e0086a31814a56cdb78eb1\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW2 - Done\HW2_base\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d210024777014400affd420510333ef27a0f1e32.jar" />
+    </item>
+
+</items>

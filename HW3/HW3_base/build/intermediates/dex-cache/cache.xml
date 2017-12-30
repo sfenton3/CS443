@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\scott\Desktop\Projects\Class work\CS443\HW3 - Done\HW3_base\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="048da2ee0c752b51b10fbe7de98e8f13df496a29">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW3 - Done\HW3_base\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_097c6d42c0358c3c92d8313898016517d32a09f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scott\Desktop\Projects\Class work\CS443\HW3 - Done\HW3_base\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\scott\Desktop\Projects\Class work\CS443\HW3 - Done\HW3_base\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e654443a108ecb56bee8fad5196273685f6d3fc1\classes.dex" />
+    </item>
+
+</items>

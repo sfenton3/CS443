@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\res\\merged\\debug\\layout\\convert_view.xml",
+        "source": "C:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\src\\main\\res\\layout\\convert_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view.xml",
+        "source": "C:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\src\\main\\res\\layout\\article_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_articles.xml",
+        "source": "C:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW1 - Done\\HW1_base\\app\\src\\main\\res\\layout\\news_articles.xml"
+    }
+]

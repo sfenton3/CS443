@@ -1,0 +1,4 @@
+#Mon Nov 13 12:26:52 EST 2017
+base.0=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW3 - Done\\HW3_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=C\:\\Users\\scott\\Desktop\\Projects\\Class work\\CS443\\HW3 - Done\\HW3_base\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
